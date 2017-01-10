@@ -1,0 +1,94 @@
+
+.tree-wrapper .branch.branch-0 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 1px;
+}
+
+.tree-wrapper .branch.branch-1 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 60px;
+}
+
+.tree-wrapper .branch.branch-2 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 180px;
+}
+
+.tree-wrapper .branch.branch-3 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 300px;
+}
+
+.tree-wrapper .branch.branch-4 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 420px;
+}
+
+.tree-wrapper .branch.branch-5 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 540px;
+}
+
+.tree-wrapper .branch.branch-6 {
+  border-top: 30px solid green;
+  border-bottom: 30px solid green;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  width: 660px;
+}
+
+.trunk {
+  border-top: 120px solid brown;
+  border-bottom: 120px solid brown;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60px;
+  border-radius: 30px;
+}
